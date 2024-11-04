@@ -1,0 +1,65 @@
+body{
+    margin-top:0px;
+}
+
+.li{
+    list-style: none;
+  
+
+    /* width:100px; */
+}
+
+.nav{
+    /* color:red; */
+    text-decoration:none;
+
+   font-size: large;
+}
+.nav:hover{
+    background-color:orange;
+color:white;
+}
+table tr td.msg{
+    /* align:center; */
+    color:green;
+}
+table tr td .btn{
+    background-color:orange;
+    color:white;
+    border-radius:5px;
+    border:none;
+    font-weight: 200px;
+    font-size:medium;
+    height:30px;
+}
+.btn2{
+    background-color:orange;
+    color:white;
+    border-radius:5px;
+    border:none;
+    height:30px;
+    font-weight: 200px;
+    font-size:medium;
+}
+.h1{
+    color:red;
+}
+.msg{
+        background-color: aquamarine;
+        color:red;
+        text-align:center;
+}
+.box{
+    border:2px solid black;
+    /* width:350px;
+    box-shadow:10px 10px 30px gray; */
+}
+#complete{
+    color:green;
+}
+.logo{
+    border:2px solid black;
+}
+.watermark{
+    font-size: 100px;
+}
